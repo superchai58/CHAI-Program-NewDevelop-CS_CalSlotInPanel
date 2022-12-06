@@ -1,0 +1,5 @@
+D:\Project\QMB\CS_CalSlotInPanel\CS_CalSlotInPanel\bin\Debug\CS_CalSlotInPanel.exe.config
+D:\Project\QMB\CS_CalSlotInPanel\CS_CalSlotInPanel\bin\Debug\CS_CalSlotInPanel.exe
+D:\Project\QMB\CS_CalSlotInPanel\CS_CalSlotInPanel\bin\Debug\CS_CalSlotInPanel.pdb
+D:\Project\QMB\CS_CalSlotInPanel\CS_CalSlotInPanel\obj\Debug\CS_CalSlotInPanel.exe
+D:\Project\QMB\CS_CalSlotInPanel\CS_CalSlotInPanel\obj\Debug\CS_CalSlotInPanel.pdb
